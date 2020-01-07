@@ -1,5 +1,3 @@
-# pandas-challenge
-
 # Academy of Py
 
 ![Education](Images/education.png)
